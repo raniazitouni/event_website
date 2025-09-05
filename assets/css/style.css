@@ -5,14 +5,18 @@
     padding: 0;
     font-family: "Montserrat";
     box-sizing: border-box;
+    
+    
 }
 
 body{
-    background-color: #013156;
+    background: linear-gradient(251deg, #1C4769 11.1%, rgba(1, 49, 86, 0.46) 84.97%);
     margin : 52px 150px;
     display: flex;
     flex-direction: column;
     position: relative;
+    
+    
 } 
 
 .nav {
@@ -87,7 +91,7 @@ body{
     padding: 20px, 32px, 20px, 32px;
     border-radius: 34px;
     margin-top:60px;
-    background: linear-gradient(to right,#719aac 5% , #F3AE0F 100%) ;
+    background: linear-gradient(to right,#719aac 5% , #EDA811 100%) ;
     border: 0;
     font-family: "Montserrat";
     font-size: 1.75rem;
